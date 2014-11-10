@@ -1,0 +1,15 @@
+#slide_1 .btn {
+  left: 400px;
+}
+#slide_5 .popup {
+  background-color: #FDE7C7;
+}
+#research_1 .circle,
+#research_2 .circle,
+#research_3 .circle,
+#research_4 .circle,
+#research_5 .circle,
+#research_6 .circle,
+#research_7 .circle {
+  background: url(../../../images/default/circle.gif);
+}
